@@ -24,3 +24,18 @@ Table:
   	....      
     
 </code></pre>
+
+
+<pre><code>
+
+$Model->trace(); // not save the record
+$Model->save(); 
+    
+</code></pre>
+
+<pre><code>
+
+$Model->trace(true); // also save the record
+
+    
+</code></pre>
