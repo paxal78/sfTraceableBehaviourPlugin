@@ -10,3 +10,16 @@ Table:
   	....      
     
 </code></pre>
+
+<p>in the options you can change the name of ip address field</p>
+
+<pre><code>
+
+Table:
+  actAs:
+    Traceable:
+      name: my_field
+  columns:
+  	....      
+    
+</code></pre>
