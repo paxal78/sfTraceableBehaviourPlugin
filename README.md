@@ -1,5 +1,5 @@
 <h2>Usage:</h2>
-<h3>this is a plugin teste in Symfony 1.4</h3>
+<h3>this is a plugin tested in Symfony 1.4</h3>
 <p>after you added plugin in ProjectConfiguration.class.php u can use the behaviour in yoiur schema.yml</p>
 
 <pre><code>
